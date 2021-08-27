@@ -30,5 +30,5 @@
   ![Snake animation](https://github.com/vanilanorca/vanilanorca/blob/output/github-contribution-grid-snake.svg)
   
 <div> 
-    <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true"/> 
+    <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@vaine&layout=compact&range=all_time&theme=merko&hide_border=true"/> 
 </div>
