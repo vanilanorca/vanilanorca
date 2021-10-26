@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Lopes Alves 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Front-end developer
 - 📕 Estudando React 
 - 📫 Contate-me no email: vilopesalves@hotmail.com
 
