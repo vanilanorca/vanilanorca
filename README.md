@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Vinicius Lopes Alves 👋
 
-- 🔭 Front-end developer
-- 📕 Estudando Angular 
+- 🔭 Front-end developer / Full Digital Analyst
 - 📫 Contate-me no email: vilopesalves@hotmail.com
 
 
